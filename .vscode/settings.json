@@ -1,4 +1,5 @@
 {
     "editor.fontFamily": "sono",
-    "terminal.integrated.fontFamily": "sono"
+    "terminal.integrated.fontFamily": "sono",
+    "terminal.integrated.fontSize": 16
 }
